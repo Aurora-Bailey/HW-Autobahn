@@ -1,0 +1,31 @@
+{
+    "users": [{
+            "id": "",
+            "username": "",
+            "email": "",
+            "phone": "",
+            "shipping": {
+                "address": [
+                    {
+                        "first_name": "",
+                        "last_name": "",
+                        "country_region": "",
+                        "phone_number": "",
+                        "street_address_po_box": "",
+                        "street_address_po_box_line_2": "",
+                        "apt_suite_unit_building_floor": "",
+                        "city": "",
+                        "state_province_region": "",
+                        "zip": ""
+                    }
+                ]
+            }
+        },
+        {}
+    ],
+    "cars": [
+        {},
+        {}
+    ]
+
+}
